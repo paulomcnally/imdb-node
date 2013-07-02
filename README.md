@@ -16,7 +16,7 @@
         title: 'Batman',
         duration: '126 min',
         classification: 'PG-13',
-        genres: [ 
+        genres: [
             'Action',
             'Fantasy'
         ],
@@ -24,7 +24,7 @@
         img: 'http://ia.media-imdb.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX214_.jpg',
         description: 'The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.',
         director: 'Tim Burton',
-        creator: [ 
+        creator: [
             'Bob Kane',
             'Sam Hamm'
         ],
@@ -34,5 +34,12 @@
             'Kim Basinger'
         ]
     }
+
+#### version 0.0.3
+-  Fix path jquery.min.js (solved)
+#### version 0.0.2
+- Fix path jquery.min.js
+#### version 0.0.1
+- First version
 
 Last update: 2013-07-02
