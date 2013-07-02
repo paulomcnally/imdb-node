@@ -37,8 +37,10 @@
 
 #### version 0.0.3
 -  Fix path jquery.min.js (solved)
+
 #### version 0.0.2
 - Fix path jquery.min.js
+
 #### version 0.0.1
 - First version
 
