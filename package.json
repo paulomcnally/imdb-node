@@ -1,7 +1,7 @@
 {
     "name": "imdb-node"
   , "description": "IMDB NodeJS API"
-  , "version": "0.0.2"
+  , "version": "0.0.3"
   , "author": "Paulo McNally <paulomcnally@gmail.com>"
   , "keywords": ["imdb", "movies"]
   , "dependencies": {
