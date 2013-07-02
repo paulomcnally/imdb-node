@@ -5,7 +5,7 @@
 
 #### Example
 
-    var imdb = require('../lib/imdb');
+    var imdb = require('imdb-node');
 
     imdb('http://www.imdb.com/title/tt0096895/', function(resultData) {
         console.log(resultData);
@@ -35,4 +35,4 @@
         ]
     }
 
-Last update: 2013-0702
+Last update: 2013-07-02
