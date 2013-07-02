@@ -1,0 +1,20 @@
+{
+    "name": "imdb-node"
+  , "description": "IMDB NodeJS API"
+  , "version": "0.0.2"
+  , "author": "Paulo McNally <paulomcnally@gmail.com>"
+  , "keywords": ["imdb", "movies"]
+  , "dependencies": {
+        "jsdom": "0.6.5"
+    }
+  , "directories": { "lib": "./lib/imdb" }
+  , "main": "./index.js"
+  , "bugs": {
+        "url":"https://github.com/paulomcnally/imdb-node/issues/new"
+      , "email": "paulomcnally@gmail.com"
+    }
+  , "repository": {
+        "type": "git"
+      , "url": "git://github.com/paulomcnally/imdb-node.git"
+    }
+}
