@@ -35,6 +35,9 @@
         ]
     }
 
+#### version 0.0.4
+-  id addeded to resultData
+
 #### version 0.0.3
 -  Fix path jquery.min.js (solved)
 
@@ -44,4 +47,4 @@
 #### version 0.0.1
 - First version
 
-Last update: 2013-07-02
+Last update: 2013-07-03
